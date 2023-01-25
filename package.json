@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "reset": "rm ./dist/index.html",
+    "reset": "del .\\dist\\index.html",
     "start": "node index.js"
   },
   "repository": {
