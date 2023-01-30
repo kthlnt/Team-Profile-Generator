@@ -1,4 +1,4 @@
-const teamMember = require('../lib/teamMember');
+const teamMember = require('../lib/TeamMember');
 
 describe('Team Member', () => {
     describe('Initialization', () => {
