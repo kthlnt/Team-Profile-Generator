@@ -12,7 +12,7 @@ const createTeam = (team) => {
             </div>
             <ul class="list-group list-group-flush">
               <li class="list-group-item">${manager.getName()}</li>
-              <li class="list-group-item">${manager.getRole()}</li>
+              <li class="list-group-item">${manager.getTitle()}</li>
               <li class="list-group-item">A third item</li>
             </ul>
             <div class="card-body">
