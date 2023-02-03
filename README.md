@@ -13,15 +13,14 @@
 
 
 ## Installation Instructions
-Download the team-profile-generator repo, install node, install inquirer and jest, and enjoy!
+
 
 ## Usage Information
 
 
 ## Walkthrough Tutorial
-[Click Here]()
+[click]()
 
-![readmePic]()
 
 ## Test Instructions
 
