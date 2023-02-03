@@ -19,7 +19,7 @@
 
 
 ## Walkthrough Tutorial
-[click]()
+[click](https://watch.screencastify.com/v/akH69D4HwgaqB0HXaxEd)
 
 
 ## Test Instructions
