@@ -39,7 +39,6 @@ describe("Employees", () => {
 
             const newEmployees = new Employees(name, email);
             const info1 = newEmployees.getName();
-            const info2 = newEmployees.getId();
             const info3 = newEmployees.getEmail();
             const info4 = newEmployees.getRole();
 
